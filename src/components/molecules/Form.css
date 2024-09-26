@@ -1,0 +1,14 @@
+.Form {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("https://img.reintech.io/variants/q5bd77yrqxz88jep88qm6re0x2e2/e7b4ce09c703210ab8f75b017c7eaf0951c5a95b737ee8120602845c1c1d944b");
+  background-size: cover;
+  opacity: 1;
+}
